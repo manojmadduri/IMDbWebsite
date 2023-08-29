@@ -1,0 +1,135 @@
+.nav{
+    color: white;
+    position:sticky;
+}
+.imdbnav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 10px 160px 10px 205px;  
+    background-color: #121212;
+    /* margin-left: px; */
+}
+.logo a svg{
+    width: 50px;
+    height: 20px;
+    /* background-color: green; */
+}
+.menu{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: green;  */
+}
+.menu svg{
+    width: 20px;
+    height: 20px;
+    /* padding-top: 2px; */
+}
+.menu p{
+    padding-bottom: 6px;
+    padding-left: 2px;
+    font-size: 1.2rem;
+}
+.all-dropdown{
+    display: flex;
+    color: black;
+    font-weight: 600;
+    background-color: #ffffff;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px 0 0 5px;
+}
+.all-dropdown p{
+    padding-left: 20px;
+    text-align: center;
+}
+.all-dropdown a svg{
+    color: black;
+    width: 30px;
+    padding: 2px;
+}
+.search{
+    display: flex;
+    width: 610px;
+    /* background-color: green; */
+    
+}
+.search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    /* background-color: white; */
+}
+.search-bar > input{
+    width: 900px;
+    height: 38px;
+    margin: 0;
+    
+}
+.search-icon{
+    border-radius: 0px 5px 5px 0;
+    background-color: white;
+    width: 22px;
+    height: 36px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -2px;
+}
+.search-icon svg{
+    width: 40px;
+    height: 40px;
+    padding-right: 2px;
+}
+.imdbpro-logo{
+    width: 80px;
+    height: 40px;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    margin-left: 30px;
+    
+}
+.imdbpro-logo a svg{
+    width: 80px;
+    height: 60px;
+    padding-left: 20px;
+}
+.watchlist{
+    color: white;
+    display: flex;
+}
+.watchlist svg{
+    width: 27px;
+    height: 27px;
+}
+.language{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.language svg{
+    color: white;
+    width: 20px;
+    height:20px;
+}
+.menu:hover, .search:hover, .imdbpro-logo:hover, .watchlist:hover, .signin:hover, .language:hover{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 992px) {
+    .search-bar{
+        width: 50%;
+    }
+  }
