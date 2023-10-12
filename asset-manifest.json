@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IMDbWebsite/static/css/main.1493ae0b.css",
+    "main.js": "/IMDbWebsite/static/js/main.2a8568db.js",
+    "static/js/679.b390ee96.chunk.js": "/IMDbWebsite/static/js/679.b390ee96.chunk.js",
+    "static/js/787.bbe01249.chunk.js": "/IMDbWebsite/static/js/787.bbe01249.chunk.js",
+    "static/media/avatar-img-2.jpg": "/IMDbWebsite/static/media/avatar-img-2.53419ee17d73f3d98a6b.jpg",
+    "static/media/avatar-img-5.jpg": "/IMDbWebsite/static/media/avatar-img-5.282fd4bd2fd26a33209b.jpg",
+    "static/media/avatar-img-4.jpg": "/IMDbWebsite/static/media/avatar-img-4.6bf7aa78f07bc7803c71.jpg",
+    "static/media/avatar-img-3.jpg": "/IMDbWebsite/static/media/avatar-img-3.73c0e634fd85cb8ee81a.jpg",
+    "static/media/avatar-img-1.jpg": "/IMDbWebsite/static/media/avatar-img-1.032b80f9faa4102720a3.jpg",
+    "static/media/avatarPoster.jpg": "/IMDbWebsite/static/media/avatarPoster.603f745e2766873a7dc8.jpg",
+    "index.html": "/IMDbWebsite/index.html",
+    "main.1493ae0b.css.map": "/IMDbWebsite/static/css/main.1493ae0b.css.map",
+    "main.2a8568db.js.map": "/IMDbWebsite/static/js/main.2a8568db.js.map",
+    "679.b390ee96.chunk.js.map": "/IMDbWebsite/static/js/679.b390ee96.chunk.js.map",
+    "787.bbe01249.chunk.js.map": "/IMDbWebsite/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1493ae0b.css",
+    "static/js/main.2a8568db.js"
+  ]
+}
